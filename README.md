@@ -16,8 +16,14 @@ The latest draft of thr manuscript related to *SIMLR* can be found as a preprint
 
 **DOWNLOAD**
 
-The R code to run *SIMLR* can be downloaded either from the master (stable version) or from the development (development version) brach, while the Matlab implementation is available from the matlab branch.  
+The R code to run *SIMLR* can be downloaded either from the master (stable version) or from the development (development version) braches, while the Matlab implementation is available from the matlab branch.  
 
 **RUNNING SIMLR ON MATLAB**
 
 We also provide the Matlab code to run *SIMLR* on 4 examples in the script *main_demo.m*. 
+
+**EXTERNAL C CODE** 
+
+We make use of external C programs during the computations of *SIMLR*. The code is located in the src directory in the files *Kbeta.cpp* and *projsplx_c.c*. In order to compite the program, one needs to run on the Matlab consolle the commands *mex Kbeta.cpp* and *mex projsplx_R.c*. 
+
+OS X pre-compiled files are also provided. 
