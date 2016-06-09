@@ -12,7 +12,7 @@ Single-cell RNA-seq technologies enable high throughput gene expression measurem
 
 **REFERENCE**
 
-The latest draft of thr manuscript related to *SIMLR* can be found as a preprint at http://biorxiv.org/content/early/2016/05/09/052225. 
+The latest draft of thr manuscript related to *SIMLR* can be found as a preprint at http://biorxiv.org/content/early/2016/06/09/052225. 
 
 **DOWNLOAD**
 
